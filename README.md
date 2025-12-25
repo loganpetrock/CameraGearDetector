@@ -1,3 +1,6 @@
+<img width="640" height="511" alt="example" src="https://github.com/user-attachments/assets/f6386f02-8c3a-44b0-9d2c-6340f830176f" />
+
+
 # Overview
 
 **Real-time computer vision system** for **AMD GPUs** to identify elements of my photography setup. Uses **ONNX Runtime** to ensure stability on **RDNA2 architecture**.
