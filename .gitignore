@@ -1,0 +1,8 @@
+venv/
+*.pt
+*.onnx
+__pycache__/
+camera_equipment_dataset/
+runs/
+*.jpg
+*.png
